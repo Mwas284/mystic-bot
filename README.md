@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/Mwas284/mwas-md-tec">
-    <img alt="Suhail docs" height="300" src="https://telegra.ph/file/6637636f266e4eda2fbe1.jpg">
+    <img alt="Suhail docs" height="300" src="https://telegra.ph/file/8a60e46abcb1b4497e703.jpg">
   </a>
 </p>
     
